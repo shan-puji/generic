@@ -1,0 +1,64 @@
+#flag{
+    background-image: url(https://wallpapercave.com/wp/wp7504813.jpg);
+    background-size: 1000px;
+}
+#r{
+    color: blue;
+    background: linear-gradient(45deg,orange,white,green);
+}
+#s1{
+    color: green;
+}
+#s2{
+    color: orange;
+}
+
+#z{
+    width: 400px;
+    position: relative;
+    left: 400px;
+    top: 130px;
+    color: black;
+}
+#a{
+    width: 300px;
+    height: 250px;
+    position: relative;
+    left: 900px;
+    bottom: 180px;
+    border: 2px double green;
+    border-radius: 75px;   
+}
+#b{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    right: 150px;
+    top: 50px;
+    border: 2px double green;
+    border-radius: 75px;   
+}
+#c{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 200px;
+    top: 50px;
+    border: 2px double green;
+    border-radius: 75px;   
+}
+#d{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 550px;
+    top: 50px;
+    border: 2px double green;
+    border-radius: 75px;   
+}
+#A{
+    position: relative;
+    left: 550px;
+    top: 20px;
+    color: aliceblue;
+}

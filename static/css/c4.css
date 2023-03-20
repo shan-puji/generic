@@ -1,0 +1,32 @@
+#f{
+    color: rgb(3, 56, 78);
+    text-align: center;
+}
+#q{
+    background-image: url(https://wallpapertag.com/wallpaper/full/8/c/0/461280-spring-flower-wallpaper-backgrounds-1920x1080-for-ipad-pro.jpg);
+    background-size: 1525px;
+}
+#s1{
+    color: lightseagreen;
+}
+#s2{
+    color: orange;
+}
+#s3{
+    color: rgb(238, 233, 233);
+}
+#s4{
+    color: lightseagreen;
+}
+#k{
+    position: relative;
+    left: 1200px;
+    top: 450px;
+    color: ghostwhite;
+}
+#g{
+    width: 600px;
+    position: relative;
+    left: -10px;
+    color: lightsalmon;
+}

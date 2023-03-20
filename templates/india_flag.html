@@ -1,0 +1,23 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/c1.css' %}">
+</head>
+<body id="flag">
+    <center>
+        <h1 id="r"><span id="s2">I LOVE</span> <span id="s3">MY</span> <span id="s1"> INDIA</span></h1>
+    </center>
+    <h1 id="z">The national flag of India is a symbol of honour, patriotism, and freedom for the country. It represents the unity of the people of India in spite of the differences in language, culture, religion, class, etc.</h1>
+    <img src="{% static 'images/india.jpg' %}" alt="" id="a">
+    <img src="{% static 'images/india1.jpg' %}" alt="" id="b">
+    <img src="{% static 'images/india2.jpg' %}" alt="" id="c">
+    <img src="{% static 'images/india3.jpg' %}" alt="" id="d">
+    <a href="{% url 'emoji_world' %}" id="A"> navigate to emoji</a>
+</body>
+</html>

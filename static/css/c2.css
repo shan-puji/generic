@@ -1,0 +1,43 @@
+#e{
+    color: black;
+    text-align: center;
+    background: linear-gradient(45deg,green,white,red);
+    
+}
+#n{
+    background-image: url(https://i.pinimg.com/originals/75/74/5c/75745cb9b542aeb80603a956481ce2bd.jpg);
+    background-size: 1475px;
+}
+#s1{
+    color: crimson;
+}
+#s2{
+    color: darkmagenta;
+}
+#s3{
+    color: rgb(171, 146, 4);
+}
+#s4{
+    color: darkblue;
+}
+#a{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 800px;
+    top: -50px;
+    border-radius: 75px;  
+}
+#b{
+    width: 250px;
+    position: relative;
+    left: 500px;
+    top: 225px;
+    color: black;
+}
+#A{
+    position: relative;
+    left: 950px;
+    top: -50px;
+    color: red;
+}

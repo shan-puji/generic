@@ -1,0 +1,41 @@
+#f{
+    color: rgb(3, 56, 78);
+    text-align: center;
+}
+#q{
+    background-image: url(https://th.bing.com/th/id/R.9e76eae7a0b24a68383500aa3c3a53a6?rik=Z29%2booyh01n5%2fQ&riu=http%3a%2f%2fwww.starhub.com%2fcontent%2fdam%2fstarhub%2f2018%2fbusiness%2fproducts-and-services%2fconnecting-my-offices%2fconnecting-internationally%2fcarousel-featured-sd-wan.jpg&ehk=WZxPx%2bd8DnjamrCCU1VqWEIzeT6460OWxUZ7KV15mgc%3d&risl=&pid=ImgRaw&r=0);
+    background-size: 1750px;
+}
+#s1{
+    color: goldenrod;
+}
+#s2{
+    color: rgb(236, 43, 236);
+}
+#s3{
+    color: rgb(97, 224, 97);
+}
+#s4{
+    color: rgb(81, 81, 235);
+}
+#g{
+    width: 500px;
+    position: relative;
+    left: 970px;
+    top: 100px;
+    color: ghostwhite;
+}
+#o{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 1200px;
+    top: 50px;
+    border-radius: 75px;
+}
+#k{
+    position: relative;
+    left: 1065px;
+    top: 60px;
+    color: greenyellow;
+}
